@@ -1,2 +1,5 @@
 # Aromatic-rice
-This is my first Repository
+In vitro propagation of indigenous three aromatic rice varieties of Madhya Pradesh.
+Three Aromatic fragrace varieties A,B and C
+Three varieties callus induction through in vitro propagation.
+
